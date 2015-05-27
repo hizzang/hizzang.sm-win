@@ -1,2 +1,2 @@
-Windows Update Management
-
+# sm-win
+ServerManagement Scripts for Windows
